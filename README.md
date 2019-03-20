@@ -1,7 +1,30 @@
 # LKU_Rpi3
 Robotu tehnoloģiju klases (11.) uzdevums.
 
-# Formatting your README
+## LIELAIS KAUJAS UZDEVUMS
+
+Izveidot Raspberry Pi 3 projektu (laba + dzelži)
+
+Atbilstoši dokumentēt Github
+
+## Dokumentācija GITHUB:
+1. README.md
+  1.1. Nosaukums
+  1.2. Apraksts (kas tas ir ko dara kāpēc?)
+  1.3. Saturs (salinkots)
+  1.4. Instalēšana 
+  1.5. Lietošanas instrukcija
+2. License.md 
+3. WIKI
+
+## Kā formatēt tekstu readme.md failā?
+
+Lai veidotu sintaksi un viss smuki izskatītos šeit pamācība:
+
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+
+
+## (KAM IR JĀBŪT IEKĻAUTAM README failā atbilstoši standartiem). Formatting your README
 
 READMEs generally follow one format in order to immediately orient developers to the most important aspects of your project.
 
@@ -25,6 +48,20 @@ Your README should contain only the necessary information for developers to get 
 
 Avots: https://guides.github.com/features/wikis/
 
-# papildus info par dokuemntēšanu
+## WIKI LAPA JŪSU PROJEKTAM
+
+- Projekts
+- Projekta komanda (ar to, kas uz lapas)
+- Projekta ideja (ar to, kas uz lapas)
+- Komandas bilde
+- Apraksts (pa nedēļam – kāds ir jūsu progress, ko esat izdarījuši)
+- Jūsu mērķis pa nedēļām (uzdevumi ko katru nedēļu)
+- Kādas prasmes/zināšanas apgūstat, kas ir jauns ko mācīsieties
+
+
+
+## papildus info par dokumentēšanu
+
+Šeit kā "formatēt" un dokumentēt kodu (iekšā pitona skriptā).
 
 https://realpython.com/documenting-python-code/#documenting-your-python-projects 
