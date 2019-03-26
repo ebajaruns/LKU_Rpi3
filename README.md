@@ -7,6 +7,19 @@ Izveidot Raspberry Pi 3 projektu (laba + dzelži)
 
 Atbilstoši dokumentēt Github
 
+## LIELAIS KAUJAS UZDEVUMS MAZAJIEM (10.klasei)
+
+Izveidot Arduino gala projektu
+
+PROTOTIPS (DARBOJOŠS)
+KODS (Ar skaidrojumiem)
+3D modelis (kopējais skats)
+3D modelis detaļām/frēzēšanai
+Ekstra materiāli?! (līdz 10.04.2019)
+Shēma/lodēšana
+BOM (bill of materials) (līdz 10.04.2019)
+
+
 ## Dokumentācija GITHUB:
 1. README.md
   1.1. Nosaukums
